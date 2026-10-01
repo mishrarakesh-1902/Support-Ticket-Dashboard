@@ -10,7 +10,8 @@ A full-stack, responsive web application designed for customer support teams to 
 
 ### 1. Ticket List Dashboard (Overview, Summary Cards, Filters & Table)
 ```
-[ PASTE SCREENSHOT 1 HERE: Main Dashboard & Ticket List ]
+<img width="1917" height="968" alt="image" src="https://github.com/user-attachments/assets/2ec6a7c5-2b2d-4748-abbd-b2d49b02081a" />
+
 ```
 ![Ticket List Dashboard](https://placehold.co/1200x675/f8fafc/334155?text=1.+Ticket+List+Dashboard+(Summary+Cards,+Filters,+Data+Table))
 
@@ -20,7 +21,8 @@ A full-stack, responsive web application designed for customer support teams to 
 
 ### 2. Create Ticket Form (Live Character Counter & Inline Validation)
 ```
-[ PASTE SCREENSHOT 2 HERE: Create Ticket Form ]
+<img width="1917" height="968" alt="image" src="https://github.com/user-attachments/assets/e59f7b6f-4817-4f6f-aeb9-ffe3013647c6" />
+
 ```
 ![Create Ticket Form](https://placehold.co/1200x675/f8fafc/334155?text=2.+Create+Ticket+Form+(Live+Counter+0%2F120,+Inline+Validation))
 
@@ -30,7 +32,8 @@ A full-stack, responsive web application designed for customer support teams to 
 
 ### 3. Ticket Detail & Status Management (Inline Status & Priority Controls)
 ```
-[ PASTE SCREENSHOT 3 HERE: Ticket Detail View ]
+<img width="1917" height="972" alt="image" src="https://github.com/user-attachments/assets/a259dcb0-72ed-4d70-97af-aba22ad64139" />
+
 ```
 ![Ticket Detail View](https://placehold.co/1200x675/f8fafc/334155?text=3.+Ticket+Detail+View+(Metadata,+Status+%26+Priority+Editing))
 
@@ -40,7 +43,8 @@ A full-stack, responsive web application designed for customer support teams to 
 
 ### 4. Mobile Responsive View (Stacked Cards & Touch Controls)
 ```
-[ PASTE SCREENSHOT 4 HERE: Mobile Responsive View ]
+<img width="420" height="972" alt="image" src="https://github.com/user-attachments/assets/75fe891f-0a7d-4f7e-b911-411adaefe959" />
+
 ```
 ![Mobile Responsive View](https://placehold.co/600x900/f8fafc/334155?text=4.+Mobile+Responsive+View+(Stacked+Cards+at+360px))
 
