@@ -6,9 +6,8 @@ A full-stack, responsive web application designed for customer support teams to 
 
 ## 🌐 Live Application URL
 
-- **Live Frontend Dashboard**: [https://support-ticket-dashboard-frontend-6qne.onrender.com](https://support-ticket-dashboard-frontend-6qne.onrender.com)
-- **Live Backend API**: [https://support-ticket-dashboard-backend.onrender.com](https://support-ticket-dashboard-backend.onrender.com)
-- **API Health Check**: [https://support-ticket-dashboard-backend.onrender.com/health](https://support-ticket-dashboard-backend.onrender.com/health)
+- **Live Dashboard**: [https://support-ticket-dashboard-frontend-6qne.onrender.com](https://support-ticket-dashboard-frontend-6qne.onrender.com)
+
 
 ---
 
